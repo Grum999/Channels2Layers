@@ -1,6 +1,6 @@
 # Channels to Layers
 
-A Krita plugin to split layer channels into sub-layers.
+A [Krita](https://github.com/KDE/krita) plugin to split layer channels into sub-layers.
 ![Example](https://github.com/Grum999/Channels2Layers/raw/master/channels2layers/channels2layers/channels2layers.jpg)
 
 ## What is Channels to Layers?
